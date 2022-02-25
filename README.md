@@ -10,6 +10,7 @@ Comentário\ <a href="https://github.com/fullcup2019/quick_text/blob/main/index%
 Postagens\ <a href="https://github.com/fullcup2019/quick_text/blob/main/Edit%20de%20Postagem.cshtml">index.cshmtl</a>
 
 <br>
+
 ***
 
 #### Layout
