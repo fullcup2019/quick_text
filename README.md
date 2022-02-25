@@ -1,5 +1,5 @@
 ## View
-  - Comentários: <a href="https://github.com/fullcup2019/quick_text/blob/main/index%20(coment%C3%A1rios).cshtml">index.cshtml</a>
+  - Comentários: <a href="https://github.com/fullcup2019/quick_text/blob/main/index%20(coment%C3%A1rios).cshtml" style="color: green">index.cshtml</a>
 <br>
 
   - Postagens: <a href="https://github.com/fullcup2019/quick_text/blob/main/Edit%20de%20Postagem.cshtml">edit.cshtml</a>
