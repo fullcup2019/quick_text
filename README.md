@@ -7,9 +7,9 @@ Comentário\ <a href="https://github.com/fullcup2019/quick_text/blob/main/index%
 <br>
 
 #### Index de postagem
-Areas\Postagens\Views\Postagens\ <a href="https://github.com/fullcup2019/quick_text/blob/main/Edit%20de%20Postagem.cshtml">index.cshmtl</a>
+Postagens\ <a href="https://github.com/fullcup2019/quick_text/blob/main/Edit%20de%20Postagem.cshtml">index.cshmtl</a>
 
-<br><br>
+<br>
 ***
 
 #### Layout
