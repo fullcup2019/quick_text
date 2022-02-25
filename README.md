@@ -10,10 +10,8 @@
 
 
 ## Estilo
-#### Layout
-  - Views\Shared\ <a href="https://github.com/fullcup2019/quick_text/blob/main/layout.cshtml">layout.cshtml</a>
+Layout: <a href="https://github.com/fullcup2019/quick_text/blob/main/layout.cshtml">layout.cshtml</a>
 <br>
 
-#### Styles
-  - Css\ <a href="https://github.com/fullcup2019/quick_text/blob/main/styles.css">styles.cs</a>
+Styles: Css\ <a href="https://github.com/fullcup2019/quick_text/blob/main/styles.css">styles.cs</a>
 <br>
