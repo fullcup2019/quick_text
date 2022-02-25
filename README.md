@@ -6,9 +6,6 @@
 
 <br>
 
-***
-
-
 ## Estilo
   - Layout: <a href="https://github.com/fullcup2019/quick_text/blob/main/layout.cshtml">layout.cshtml</a>
 <br>
