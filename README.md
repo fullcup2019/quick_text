@@ -1,2 +1,2 @@
 # quick_text
-#Como vais?
+# Como vais?
