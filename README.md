@@ -3,7 +3,7 @@
 <br>
 
   - Postagens: <a href="https://github.com/fullcup2019/quick_text/blob/main/Edit%20de%20Postagem.cshtml">edit.cshtml</a>
-
+  - <p style="color: green>index.cshtml</p></a>
 <br>
 
 ## Estilo
